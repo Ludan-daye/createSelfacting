@@ -25,7 +25,7 @@
 
 ```bash
 # 下载项目文件
-wget -O v2ray-auto-deploy.tar.gz https://github.com/your-repo/archive/main.tar.gz
+wget -O createSelfacting.tar.gz https://github.com/Ludan-daye/createSelfacting/archive/main.tar.gz
 tar -xzf v2ray-auto-deploy.tar.gz
 cd v2ray-auto-deploy
 
